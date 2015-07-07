@@ -1,0 +1,1 @@
+# openstackwurtzite-baseimage
