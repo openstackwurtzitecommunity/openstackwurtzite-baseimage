@@ -1,2 +1,2 @@
-docker build -t openstackwurtzite-baseimage .
+docker build -t  openstackwurtzite/openstackwurtzite-baseimage .
 
